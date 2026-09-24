@@ -1,5 +1,5 @@
 Project: Fake News Detection Using NLP
-Author: Your Name
+Author: Tasmiya
 Date: Jan 2026
 Description:
 - Uses NLP and TF-IDF to detect fake or real news.
